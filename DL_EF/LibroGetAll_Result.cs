@@ -20,9 +20,5 @@ namespace DL_EF
         public Nullable<int> IdEditorial { get; set; }
         public string Edicion { get; set; }
         public Nullable<int> IdGenero { get; set; }
-        public int IdLibro { get; set; }
-        public string NombreAutor { get; set; }
-        public string NombreEditorial { get; set; }
-        public string NombreGenero { get; set; }
     }
 }
